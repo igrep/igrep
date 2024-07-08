@@ -1,13 +1,13 @@
 ## YAMAMOTO Yuji (@igrep)'s GitHub Profile
 
-- 🎂Birthdate: 1989-04-16
-- 😄Pronouns: he/him
-- ⚓️Home City: Yokohama
-- 🏙Lives in: Tokyo
-- 💬Languages:
-  - 🇯🇵Japanese (Bilingual of Osaka/Tokyo dialects)
-  - 🇬🇧English (As I write this page and send to you some pull requests with little machine translation)
-  - 🇨🇳Chinese (A little)
+- 🎂 Birthdate: 1989-04-16
+- 😄 Pronouns: he/him
+- ⚓️ Home City: Yokohama
+- 🏙 Lives in: Tokyo
+- 💬 Languages:
+  - 🇯🇵 Japanese (Bilingual of Osaka/Tokyo dialects)
+  - 🇬🇧 English (As I write this page and send to you some pull requests with little machine translation)
+  - 🇨🇳 Chinese (A little)
 
 ### Repositories Overview
 
@@ -21,24 +21,25 @@
         - (In Japanese) [svelte-store-treeというライブラリーをリリースしました](https://zenn.dev/igrep/articles/2022-09-svelte-store-tree)
         - (In Japanese) [なぜSvelte風Solid.jsのstoreは作れないか、およびsvelte-store-treeの新バージョンの紹介](https://zenn.dev/igrep/articles/2022-10-svelte-store-tree)
 - [igrep/vertons](https://github.com/igrep/vertons)
-    - 🎮A hobby work to study for creating a no-code app.
-    - (In Japanese) See [フロントエンド開発者的週刊アスキーへの道（ならず）](https://zenn.dev/igrep/articles/2022-06-ascii) for details.
+    - NOTE: 🇯🇵The main contents are in Japanese.
+    - 🎮A hobby work to study for creating a visual programming environment. Available at <https://the.igreque.info/works/vertons/>.
+    - See [フロントエンド開発者的週刊アスキーへの道（ならず）](https://zenn.dev/igrep/articles/2022-06-ascii) for details.
 
 #### 📚Related to Programming Languages
 
 - [haskell-jp/makeMistakesToLearnHaskell](https://github.com/haskell-jp/makeMistakesToLearnHaskell)
     - NOTE: 🇯🇵The main contents are in Japanese.
-    - An long introduction to Haskell for Japanese beginners.
+    - A long introduction to Haskell for Japanese beginners.
     - Features:
         - Consists of exercises and explanations of knowledge necessary to do the exercises.
         - In each chapter, the readers learn things *only* necessary to do the exercise.
         - Recommends the readers to learn from error messages.
     - I'm recently less interested in Haskell, but I don't want to give up finishing.
 - [custard-lang/custard](https://github.com/custard-lang/custard)
-    - Currently developed as a Clojure-like AltJS (language that translated into JavaScript) for me.
-    - 🚧Still work in progress.
-- [igrep/lean-workshop: SF.lean勉強会でigrepが書いたコードの記録](https://github.com/igrep/lean-workshop)
-    - I expected that the skill to use a theorem prover will help me to design/develop the language above in the future. That's why I started to learn Lean every two weeks with my friends.
+    - 🍮Currently developed as a Clojure-like AltJS (language that translated into JavaScript) for me.
+    - 🚧Still work in progress. Completely undocumented yet. Sorry!
+- [igrep/lean-workshop](https://github.com/igrep/lean-workshop)
+    - ⚖️I expect that the skill to use a theorem prover will help me to design/develop the language above in the future. That's why I started to learn Lean every two weeks with my friends. This is the repository to record what I wrote in the workshops.
 
 #### 🍴Forks
 
@@ -48,7 +49,7 @@
         - [Make (equivalent for) dragAndMoveBall available again](https://github.com/canalun/brick-break-anywhere/pull/15)
         - [Fix: Blocks shifts by the border's size when removed or debug mode enabled](https://github.com/canalun/brick-break-anywhere/pull/17)
         - [Fix: Blocks of multi-line inline elements are too large](https://github.com/canalun/brick-break-anywhere/pull/18)
-- [igrep/translated-content: The source repository of all translated content for MDN Web Docs](https://github.com/igrep/translated-content)
+- [igrep/translated-content](https://github.com/igrep/translated-content)
     - I found translating MDN is a good way to learn web technologies more. I take part in [a monthly online meetup to translate MDN into Japanese](https://mozilla.doorkeeper.jp/).
 
 #### 🤡Jokes
@@ -64,7 +65,10 @@
 
 #### 💬Others
 
-- [igrep/intro-mdn-translation-ja: MDN の翻訳方法を解説する動画の原稿をレビューしてもらうためのリポジトリー](https://github.com/igrep/intro-mdn-translation-ja)
+- [igrep/intro-mdn-translation-ja](https://github.com/igrep/intro-mdn-translation-ja)
+    - NOTE: 🇯🇵The main contents are in Japanese.
+    - This repository contains the script of the video that introduces the translation process of MDN into Japanese. The video was exhibited at the booth of "Mozilla翻訳コミュニティ" in [オープンソースカンファレンス2024 Tokyo/Spring](https://event.ospn.jp/osc2024-spring/).
+    - 🎥The complete video is available at [MDN 翻訳の流れ - YouTube](https://www.youtube.com/watch?v=KxMmm98emKw) in Japanese.
 - [igrep/daily-commits](https://github.com/igrep/daily-commits)
     - NOTE: 🇯🇵The main contents are in Japanese.
     - This repository is my source of power. Keeping recording my day-to-day activities on this repository makes me motivated💪.
