@@ -6,7 +6,7 @@
 - 🏙 Lives in: Tokyo
 - 💬 Languages:
   - 🇯🇵 Japanese (Bilingual of Osaka/Tokyo dialects)
-  - 🇬🇧 English (As I write this page and send you some pull requests with little machine translation)
+  - 🇬🇧 English (As I write this page and send you some pull requests with little help of machine translation)
   - 🇨🇳 Chinese (A little)
 
 ### Repositories Overview
