@@ -6,13 +6,13 @@
 - 🏙 Lives in: Tokyo
 - 💬 Languages:
   - 🇯🇵 Japanese (Bilingual of Osaka/Tokyo dialects)
-  - 🇬🇧 English (As I write this page and send to you some pull requests with little machine translation)
+  - 🇬🇧 English (As I write this page and send you some pull requests with little machine translation)
   - 🇨🇳 Chinese (A little)
 
 ### Repositories Overview
 
 - [igrep/ts-that-grow](https://github.com/igrep/ts-that-grow)
-    - 🎄I invented this solution to solve a problem in the no-code app in my job. See [the original article](https://dev.to/igrep/flexiblly-extend-nested-structures-trees-that-grow-in-typescript-4347) or [its Japanese version](https://eng-blog.iij.ad.jp/archives/18900) for details.
+    - 🎄I invented this solution to solve a problem of the no-code app in my job. See [the original article](https://dev.to/igrep/flexiblly-extend-nested-structures-trees-that-grow-in-typescript-4347) or [its Japanese version](https://eng-blog.iij.ad.jp/archives/18900) for details.
 - [igrep/svelte-store-tree](https://github.com/igrep/svelte-store-tree)
     - 🌲I created this to manage the state of an AST of the no-code app in my job. It made it a little easier to operate on the nested structure.
         - But *just a little*. I found it has many problems after releaseing. I guess Svelte 5 would deprecate it.
@@ -23,7 +23,7 @@
 - [igrep/vertons](https://github.com/igrep/vertons)
     - NOTE: 🇯🇵The main contents are in Japanese.
     - 🎮A hobby work to study for creating a visual programming environment. Available at <https://the.igreque.info/works/vertons/>.
-    - See [フロントエンド開発者的週刊アスキーへの道（ならず）](https://zenn.dev/igrep/articles/2022-06-ascii) for details.
+    - See [フロントエンド開発者的週刊アスキーへの道（ならず）](https://zenn.dev/igrep/articles/2022-06-ascii) for details (in Japanese).
 
 #### 📚Related to Programming Languages
 
@@ -39,7 +39,7 @@
     - 🍮Currently developed as a Clojure-like AltJS (language that translated into JavaScript) for me.
     - 🚧Still work in progress. Completely undocumented yet. Sorry!
 - [igrep/lean-workshop](https://github.com/igrep/lean-workshop)
-    - ⚖️I expect that the skill to use a theorem prover will help me to design/develop the language above in the future. That's why I started to learn Lean every two weeks with my friends. This is the repository to record what I wrote in the workshops.
+    - ⚖️I expect that the skill to use a theorem prover will help me to design/develop the language above in the future. That's why I started to learn [Lean](https://lean-lang.org/) every two weeks with my friends. This is the repository to record what I wrote in the workshops.
 
 #### 🍴Forks
 
@@ -76,7 +76,7 @@
 ### Contributions on OSS outside GitHub
 
 - One of the founders of [Haskell-jp](https://haskell.jp/), a community for Haskell programmers in Japan.
-- Publish several articles about WebAssembly and Haskell etc. in external Japanese media. See the "執筆履歴" section in [the links page of my web site](https://the.igreque.info/posts/-links#%E5%9F%B7%E7%AD%86%E5%B1%A5%E6%AD%B4) for details.
+- Published several articles about WebAssembly and Haskell etc. in external Japanese media. See [the "執筆履歴" section in the links page of my web site](https://the.igreque.info/posts/-links#%E5%9F%B7%E7%AD%86%E5%B1%A5%E6%AD%B4) for details.
 
 ### Other Profile Pages
 
