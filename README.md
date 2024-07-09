@@ -16,7 +16,7 @@
 - [igrep/svelte-store-tree](https://github.com/igrep/svelte-store-tree)
     - 🌲I created this to manage the state of an AST of the no-code app in my job. It made it a little easier to operate on the nested structure.
         - But *just a little*. I found it has many problems after releaseing. I guess Svelte 5 would deprecate it.
-    - See also the introduction articles below
+    - See also the introduction articles below:
         - [Why I failed to create the "Solid.js's store" for Svelte, and announcing svelte-store-tree v0.3.1](https://dev.to/igrep/why-i-failed-to-create-the-solidjss-store-for-svelte-and-announcing-svelte-store-tree-v031-1am2).
         - (In Japanese) [svelte-store-treeというライブラリーをリリースしました](https://zenn.dev/igrep/articles/2022-09-svelte-store-tree)
         - (In Japanese) [なぜSvelte風Solid.jsのstoreは作れないか、およびsvelte-store-treeの新バージョンの紹介](https://zenn.dev/igrep/articles/2022-10-svelte-store-tree)
