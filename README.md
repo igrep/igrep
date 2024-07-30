@@ -45,7 +45,7 @@
 
 - [igrep/brick-break-anywhere](https://github.com/igrep/brick-break-anywhere)
     - Forked to learn how DOM works, as [the original author @canalun told us in JSConfJP 2023](https://docs.google.com/presentation/d/1hjs2J4fScWcs42oJ11F9uv1iuSnb_25TEZxyJo6UlLU/edit#slide=id.g2970b3f929e_0_0).
-    - Important pull requests (but some of them are not merged yet as of writing this):
+    - Important pull requests:
         - [Make (equivalent for) dragAndMoveBall available again](https://github.com/canalun/brick-break-anywhere/pull/15)
         - [Fix: Blocks shifts by the border's size when removed or debug mode enabled](https://github.com/canalun/brick-break-anywhere/pull/17)
         - [Fix: Blocks of multi-line inline elements are too large](https://github.com/canalun/brick-break-anywhere/pull/18)
