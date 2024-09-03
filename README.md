@@ -36,7 +36,7 @@
         - Recommends the readers to learn from error messages.
     - I'm recently less interested in Haskell, but I don't want to give up finishing.
 - [custard-lang/custard](https://github.com/custard-lang/custard)
-    - 🍮Currently developed as a Clojure-like AltJS (language that translated into JavaScript) for me.
+    - 🍮Currently developed as a Clojure-like AltJS (language that is translated into JavaScript) for me.
     - 🚧Still work in progress. Completely undocumented yet. Sorry!
 - [igrep/lean-workshop](https://github.com/igrep/lean-workshop)
     - ⚖️I expect that the skill to use a theorem prover will help me to design/develop the language above in the future. That's why I started to learn [Lean](https://lean-lang.org/) every two weeks with my friends. This is the repository to record what I wrote in the workshops.
