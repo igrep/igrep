@@ -13,6 +13,8 @@
 
 - [igrep/ts-that-grow](https://github.com/igrep/ts-that-grow)
     - 🎄I invented this solution to solve a problem of the no-code app in my job. See [the original article](https://dev.to/igrep/flexiblly-extend-nested-structures-trees-that-grow-in-typescript-4347) or [its Japanese version](https://eng-blog.iij.ad.jp/archives/18900) for details.
+- [igrep/toy-browser-on-browser](https://github.com/igrep/toy-browser-on-browser/)
+    - 🚀A tiny browser engine that runs on a browser. I created this to learn how a browser engine works.
 - [igrep/svelte-store-tree](https://github.com/igrep/svelte-store-tree)
     - 🌲I created this to manage the state of an AST of the no-code app in my job. It made it a little easier to operate on the nested structure.
         - But *just a little*. I found it has many problems after releaseing. I guess Svelte 5 would deprecate it.
