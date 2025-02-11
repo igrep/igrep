@@ -17,7 +17,7 @@
     - NOTE: 🇯🇵README is written in Japanese.
     - 🚀A tiny browser engine that runs on a browser. I created this to learn how a browser engine works.
     - Its demo is available at <https://toy-browser-on-browser.igreque.info/>.
-- [igrep/svelte-store-tree](https://github.com/igrep/svelte-store-tree)
+- [igrep/svelte-store-tree](https://github.com/igrep/svelte-store-tree) (**Deprecated**)
     - 🌲I created this to manage the state of an AST of the no-code app in my job. It made it a little easier to operate on the nested structure.
         - But *just a little*. I found it has many problems after releasing. Deprecated since [Svelte 5's `$state` is deeply reactive](https://svelte.dev/docs/svelte/$state).
     - See also the introduction articles below:
